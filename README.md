@@ -71,13 +71,3 @@ Structure du Projet
 index.js : Point d'entrée de l'application, configuration du serveur Express et des routes.
 package.json : Gestion des dépendances et scripts de l'application.
 dist/ : Dossier pour les fichiers statiques (comme le build frontend).
-Contributions
-Les contributions sont les bienvenues ! Pour proposer des améliorations ou corriger des bugs, veuillez créer une pull request.
-
-Licence
-Ce projet est sous la licence MIT.
-
-Contact
-Pour toute question, veuillez contacter votre-email@example.com.
-
-Adaptez ce README en fonction des spécificités et des besoins de votre projet. Assurez-vous d'inclure des instructions claires pour la configuration et l'exécution de l'application.
